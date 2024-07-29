@@ -1,0 +1,106 @@
+
+.separation-2{
+    display: flex;
+    height: 100px;
+   background-color: #655A4A;
+    text-align: center;
+    justify-content: center;
+    
+   
+}
+
+.title-separation{
+    margin: auto;
+    font-size: 2.5rem;
+    color: rgb(246, 243, 239);
+}
+
+
+.produtos{
+    display: flex;
+}
+
+.bloco-1, .bloco-2{
+    flex: 1;
+}
+
+.bloco-1{
+    background-color: rgb(98, 128, 98);
+    margin-top: 40px;
+    margin-left: 20px;
+    align-content: center;
+    padding-inline: 100px;
+    
+}
+
+.h1-bloco-1, .bloco-1-description{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h1-bloco-1{
+    font-size: 2.5rem;
+    text-align: center;
+    color: rgb(30, 30, 29);
+    
+    
+}
+
+.bloco-1-description{
+    text-align: center;
+    font-weight: 100;
+    margin-top: 20px;
+    max-width: 50ch;
+    
+
+}
+
+.bloco-1-button{
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: rgb(37, 40, 37);
+    font-size: 1rem;
+    font-weight: 100;
+    margin-left: 180px;
+   
+
+}
+
+.bloco-2{ 
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.bloco-3{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.bloco-4{
+    background-color: rgb(98, 128, 98);
+    margin-top: 40px;
+    margin-right: 20px;
+    align-content: center;
+    padding-inline: 100px;
+}
+
+
+.bloco-1-button-2{
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: rgb(37, 40, 37);
+    font-size: 1rem;
+    font-weight: 100;
+    margin-left: 190px;
+   
+
+}
+
+
+
+
+
+
+
+
